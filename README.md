@@ -12,8 +12,8 @@ Este proyecto es un CRM básico que permite registrar usuarios mediante un formu
 
 ## 📷 Capturas
 
-![Formulario](assets/formulario.jpg)
-![Dashboard](assets/dashboard.jpg)
+![Formulario](assets/formulario.JPG)
+![Dashboard](assets/dashboard.JPG)
 
 ## 🧠 Tecnologías utilizadas
 
