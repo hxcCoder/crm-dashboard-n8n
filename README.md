@@ -12,8 +12,8 @@ Este proyecto es un CRM básico que permite registrar usuarios mediante un formu
 
 ## 📷 Capturas
 
-![Formulario](assets/formulario.png)
-![Dashboard](assets/dashboard.png)
+![Formulario](assets/formulario.jpg)
+![Dashboard](assets/dashboard.jpg)
 
 ## 🧠 Tecnologías utilizadas
 
@@ -30,3 +30,9 @@ Este proyecto es un CRM básico que permite registrar usuarios mediante un formu
 3. n8n guarda los datos en una hoja de Google Sheets
 4. El dashboard (`index.html`) hace una petición GET a otro Webhook
 5. n8n responde con los datos almacenados
+6. 
+## 🧪 Credenciales y prueba
+
+El flujo puede requerir credenciales de Google autorizadas para escribir/leer Sheets. 
+Puedes crear una con OAuth2 o usar una clave de servicio.
+Prueba tu webhook en n8n antes de integrar.
