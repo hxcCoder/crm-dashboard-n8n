@@ -9,8 +9,12 @@ Este proyecto es un CRM básico que permite registrar usuarios mediante un formu
 - Almacenamiento automático en Google Sheets
 - Dashboard dinámico tipo CRM con tabla de registros
 - Preparado para integraciones más avanzadas (IA, notificaciones, filtros)
+---
+
 <details>
-<summary>## 📷 Capturas</summary>
+##<summary> 📷 Capturas</summary>
+---
+
 
 ![Formulario](assets/formulario.JPG)
 ---
