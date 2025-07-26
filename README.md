@@ -12,8 +12,9 @@ Este proyecto es un CRM básico que permite registrar usuarios mediante un formu
 ---
 
 <details>
-##<summary> 📷 Capturas</summary>
----
+<summary>
+   ##📷 Capturas</summary>
+
 
 
 ![Formulario](assets/formulario.JPG)
