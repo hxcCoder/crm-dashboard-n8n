@@ -51,7 +51,7 @@ Usar n8n.cloud para evitar restricciones locales
 ---
 ## 📬 Contacto
 
----
+
 ¿Tienes dudas, sugerencias o estás interesado en trabajar conmigo?
 
 Puedes contactarme a través de:
@@ -61,4 +61,3 @@ Puedes contactarme a través de:
 - 🖥️ GitHub: [github.com/TU_USUARIO](https://github.com/TU_USUARIO)
 
 Estoy disponible para proyectos freelance, colaboraciones o puestos remotos relacionados con desarrollo web, automatización y herramientas sin código.
----
