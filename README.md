@@ -23,7 +23,6 @@ Este proyecto es un CRM básico que permite registrar usuarios mediante un formu
 ---
 
 </details>
----
 
 ## 🧠 Tecnologías utilizadas
 
