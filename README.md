@@ -24,7 +24,7 @@ Este proyecto es un CRM básico que permite registrar usuarios mediante un formu
 
 </details>
 
-##🧠 Tecnologías utilizadas
+## 🧠 Tecnologías utilizadas
 
 - HTML5 / CSS3 / JavaScript (Vanilla)
 - n8n (Automatización sin código)
