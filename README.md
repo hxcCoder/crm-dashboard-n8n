@@ -13,16 +13,18 @@ Este proyecto es un CRM básico que permite registrar usuarios mediante un formu
 
 <details>
 <summary>
+   
 ## 📷 Capturas</summary>
-
-
 
 ![Formulario](assets/formulario.JPG)
 ---
+
 ![Dashboard](assets/dashboard.JPG)
 ---
+
 </details>
-## 🧠 Tecnologías utilizadas
+
+##🧠 Tecnologías utilizadas
 
 - HTML5 / CSS3 / JavaScript (Vanilla)
 - n8n (Automatización sin código)
