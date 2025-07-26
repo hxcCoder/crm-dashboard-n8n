@@ -1,0 +1,87 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9fafb;
+  color: #111827;
+  line-height: 1.6;
+}
+
+/* Contenedor principal */
+.crm-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Header */
+.crm-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.crm-header h1 {
+  font-size: 2.5rem;
+  color: #1f2937;
+  margin-bottom: 0.5rem;
+}
+
+.crm-header p {
+  font-size: 1.1rem;
+  color: #6b7280;
+}
+
+/* Tabla */
+.crm-table-section {
+  overflow-x: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  background: #ffffff;
+  padding: 1rem;
+}
+
+.crm-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 600px;
+}
+
+.crm-table thead {
+  background-color: #f3f4f6;
+}
+
+.crm-table th,
+.crm-table td {
+  padding: 1rem;
+  text-align: left;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.crm-table th {
+  color: #374151;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.crm-table td {
+  color: #4b5563;
+  font-size: 0.95rem;
+}
+
+/* Hover en filas */
+.crm-table tbody tr:hover {
+  background-color: #f9fafb;
+}
+
+/* Footer */
+.crm-footer {
+  margin-top: 3rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #9ca3af;
+}

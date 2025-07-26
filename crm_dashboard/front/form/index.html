@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Formulario de Contacto - CRM Inteligente</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="form-wrapper">
+    <section class="form-container">
+      <h1>Contáctanos</h1>
+      <p class="subtitle">Déjanos tu mensaje y te responderemos pronto</p>
+      <form id="contactForm" novalidate>
+        <div class="input-group">
+          <label for="nombre">Nombre <span aria-hidden="true">*</span></label>
+          <input type="text" id="nombre" name="nombre" placeholder="Tu nombre completo" required minlength="2" />
+          <small class="error-message" aria-live="polite"></small>
+        </div>
+
+        <div class="input-group">
+          <label for="email">Correo electrónico <span aria-hidden="true">*</span></label>
+          <input type="email" id="email" name="email" placeholder="tuemail@ejemplo.com" required />
+          <small class="error-message" aria-live="polite"></small>
+        </div>
+
+        <div class="input-group">
+          <label for="mensaje">Mensaje <span aria-hidden="true">*</span></label>
+          <textarea id="mensaje" name="mensaje" rows="5" placeholder="Escribe tu mensaje aquí..." required minlength="10"></textarea>
+          <small class="error-message" aria-live="polite"></small>
+        </div>
+
+        <button type="submit" class="btn-submit" aria-live="polite">Enviar mensaje</button>
+
+        <div id="formStatus" role="alert" aria-live="assertive"></div>
+      </form>
+    </section>
+  </main>
+
+  <script src="script.js" defer></script>
+</body>
+</html>

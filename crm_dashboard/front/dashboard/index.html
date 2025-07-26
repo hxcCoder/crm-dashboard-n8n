@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CRM de Contactos</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div class="crm-container">
+    <header class="crm-header">
+      <h1>CRM de Clientes</h1>
+      <p>Visualiza y gestiona los datos recibidos de tus formularios inteligentes</p>
+    </header>
+
+    <section class="crm-table-section">
+      <table class="crm-table">
+        <thead>
+          <tr>
+            <th>Nombre</th>
+            <th>Email</th>
+            <th>Mensaje</th>
+            <th>Fecha</th>
+          </tr>
+        </thead>
+        <tbody id="crm-data-body">
+          <!-- Datos se insertan dinámicamente con JS -->
+        </tbody>
+      </table>
+    </section>
+
+    <footer class="crm-footer">
+      <p>Desarrollado por Benjamin Millalonco · Potenciado con IA y n8n</p>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
