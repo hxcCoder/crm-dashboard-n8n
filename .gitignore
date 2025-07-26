@@ -1,0 +1,12 @@
+# Ignora el archivo con credenciales
+.env
+
+# Ignora dependencias si alguna vez usas npm
+node_modules/
+
+# Ignora configuraciones de VSCode u otros editores
+.vscode/
+
+# Ignora archivos del sistema
+.DS_Store
+Thumbs.db
