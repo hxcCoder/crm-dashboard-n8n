@@ -11,10 +11,11 @@ Este proyecto es un CRM básico que permite registrar usuarios mediante un formu
 - Preparado para integraciones más avanzadas (IA, notificaciones, filtros)
 
 ## 📷 Capturas
-
+---
 ![Formulario](assets/formulario.JPG)
+---
 ![Dashboard](assets/dashboard.JPG)
-
+---
 ## 🧠 Tecnologías utilizadas
 
 - HTML5 / CSS3 / JavaScript (Vanilla)
