@@ -1,8 +1,5 @@
 # CRM Dashboard con n8n, Google Sheets y HTML
-
-Este proyecto es un CRM básico que permite registrar usuarios mediante un formulario web y visualizar los datos en un dashboard dinámico conectado a **Google Sheets** usando **n8n**.
-
-## ✨ Características
+---
 
 - Formulario estético en HTML/CSS/JS
 - Conexión backend vía `n8n` usando Webhooks
